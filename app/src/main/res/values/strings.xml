@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NeuroDraw</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_draw">Losuj</string>
+    <string name="button_back">Cofnij</string>
+    <string name="button_redraw">Powtórz</string>
+    <string name="no_player_checked">Zaznacz co najmniej jednego gracza</string>
+    <string name="too_much_player_checked">Za dużo graczy na obecną ilość armii</string>
+
+    <string name="title_activity_armies">ArmiesActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="first">pierwszy</string>
+    <string name="last">ostatni</string>
+</resources>

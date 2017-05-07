@@ -1,0 +1,12 @@
+<resources>
+    <array name="players">
+        <item>Arek</item>
+        <item>Tata</item>
+        <item>Robert</item>
+        <item>Marcin</item>
+        <item>Krzyś</item>
+        <item>Other A</item>
+        <item>Other B</item>
+        <item>Other C</item>
+    </array>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string-array name="army_names">
+        <item>Borgo</item>
+        <item>Moloch</item>
+        <item>Posterunek</item>
+        <item>Hegemonia</item>
+        <item>Stalowa Policja</item>
+        <item>Dancer</item>
+        <item>Nowy Jork</item>
+        <item>Neodżungla</item>
+        <item>Sharrash</item>
+        <item>Mephisto</item>
+        <item>Missisipi</item>
+        <item>Vegas</item>
+        <item>Smart</item>
+        <item>Uranopolis</item>
+        <item>Death Breath</item>
+    </string-array>
+</resources>
